@@ -1,0 +1,14 @@
+extrusion to use GitHub
+----------
+---------
+---    
+--      ---
+---      --
+----------
+-----------
+
+git init                     =inicie
+git add nome-do-arquivo-incluindo-extensão =adicionar
+git add .                    =adicionar todo o diretorio
+git status                   =
+git commit -m "comentario"   = 
